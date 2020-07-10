@@ -62,6 +62,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'figaro'
 
 # gem 'bootstrap-sass', '3.2.0.2'
-gem 'bootstrap-sass', '~> 3.3.5'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sass-rails', '>= 3.2'
 
